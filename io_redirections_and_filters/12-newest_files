@@ -1,3 +1,2 @@
 #!/bin/bash
 type . -type f | ls -lt
-
