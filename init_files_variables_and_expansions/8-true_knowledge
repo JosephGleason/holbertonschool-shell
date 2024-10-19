@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "$((1+2+8))=$TRUEKNOWLEDGE" 
+TRUEKNOWLEDGE=$((1+2+8)) && echo $TRUEKNOWLEDGE
