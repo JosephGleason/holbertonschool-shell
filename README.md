@@ -1,1 +1,1 @@
-# holbertonschool-shell
+io, redirection readme y'all
