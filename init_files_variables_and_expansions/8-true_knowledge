@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv ((1+2+8))
+printenv ((1+2+8)) TRUEKNOWLEDGE
