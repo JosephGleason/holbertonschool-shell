@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv ((1+2+8)) TRUEKNOWLEDGE
+echo $((128 + $TRUEKNOWLEDGE))
